@@ -1,0 +1,20 @@
+{
+  "name": "hez_code_dashboard",
+  "version": "1.0.0",
+  "description": "Web dashboard for Hez_code hacking tools",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.2.4",
+    "autoprefixer": "10.4.13",
+    "postcss": "8.4.21"
+  },
+  "devDependencies": {}
+}
