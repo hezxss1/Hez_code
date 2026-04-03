@@ -1,0 +1,10 @@
+{
+  "sk_live_prefix": "sk_live_",
+  "sk_test_prefix": "sk_test_",
+  "key_length": 32,
+  "common_patterns": [
+    {"service": "payments", "pattern": "sk_live_[a-zA-Z0-9]{24}"},
+    {"service": "subscriptions", "pattern": "sk_live_[a-zA-Z0-9]{24}"},
+    {"service": "connect", "pattern": "sk_live_[a-zA-Z0-9]{24}"}
+  ]
+}
