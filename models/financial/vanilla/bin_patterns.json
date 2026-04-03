@@ -1,0 +1,12 @@
+{
+  "vanilla_visa_bins": [
+    "412345",
+    "456789",
+    "498765",
+    "432109",
+    "476543"
+  ],
+  "card_length": 16,
+  "cvv_length": 3,
+  "luhn_check": true
+}
